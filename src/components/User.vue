@@ -43,11 +43,4 @@
   .task-wrapper {
     margin-top: 30px;
   }
-  .container {
-    max-width: 1280px;
-    margin-top: 20px;
-    .col-md-4 {
-      flex: 1 0 32.333333%;
-    }
-  }
 </style>

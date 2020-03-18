@@ -54,7 +54,7 @@
     color: #fff;
     background-color: #6391b2;
     border-radius: 6px;
-    margin: 0 10px 10px 0;
+    margin: 10px 10px 10px 0;
     &.done {
       background-color: #51b290;
     }
